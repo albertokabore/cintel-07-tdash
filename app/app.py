@@ -1,8 +1,8 @@
 # Module 7 Final: Modified Penguins Dashboard - Albert Kabore
 
-# -----------------------------------------------
+# ----------------------------------------------
 # IMPORTS
-# -----------------------------------------------
+# ----------------------------------------------
 import seaborn as sns
 from faicons import icon_svg
 from shiny import reactive
