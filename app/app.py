@@ -9,7 +9,7 @@ from shiny import reactive
 from shiny.express import input, render, ui
 import palmerpenguins
 
-# ----------------------------------------------
+# ---------------------------------------------
 # LOAD DATA
 # ----------------------------------------------
 df = palmerpenguins.load_penguins()
